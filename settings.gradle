@@ -1,0 +1,2 @@
+include ':app', ':openCVsdk'
+include ':openCVLibrary340dev'
